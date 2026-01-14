@@ -1,0 +1,4 @@
+Scrapy==2.14.1
+Selenium==4.15.2
+webdriver-manager==4.0.1
+python-dateutil==2.8.2
